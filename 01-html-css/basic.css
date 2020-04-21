@@ -1,0 +1,32 @@
+body {
+    background-color: #444444;
+    color: #dddddd;
+}
+
+div {
+    border: 5px solid white;
+}
+
+a {
+    color: teal;
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+.blue { 
+    color: aqua;
+}
+
+#my-special-image {
+    padding: 10px;
+    border: 5px dotted purple;
+}
+
+/*
+ Micro-exercise: Go back to the HTML and add a new class to two of the list items and make them bold with CSS.
+ (hint: search for "bold css" on a search engine!)
+
+ Then add some css that will cause the text of the h1 to be centered on the page.
+*/
