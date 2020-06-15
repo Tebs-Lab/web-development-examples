@@ -7,7 +7,7 @@ window.onload = function() {
     // as an argument to the 'addEventListener' function.
     // Sometimes this confuses people, but it is *very* common in JS
     clickBtn.addEventListener('click', function(event) {
-        alert("You clicked the labeled: " + clickBtn.innerText);
+        alert("You clicked the button labeled: " + clickBtn.innerText);
     })
 
     // querySelectorAll gets ALL the matching elements, not just one
